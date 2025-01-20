@@ -1,5 +1,3 @@
-# Topsis-Udit-102203558
-Implementation of TOPSIS for decision-making
 # TOPSIS Implementation
 
 This repository contains the implementation of the TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) method.
